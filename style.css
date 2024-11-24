@@ -1,0 +1,35 @@
+body {
+    background-color: #dbeafe;
+    color: #333;
+}
+
+h1 {
+    color: #2563eb;
+}
+
+h2 {
+    color: #5d8575;
+}
+
+a {
+    color: #e63946;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Georgia', serif;
+}
+
+img {
+    border: 2px solid #333;
+    border-radius: 8px;
+    margin: 10px 0;
+}
